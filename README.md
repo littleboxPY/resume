@@ -4,5 +4,5 @@ built this with html.
 
 - sections: education · skills · projects · profiles
 
-[RESUME](index.html)
+[RESUME](https://littleboxpy.github.io/resume/)
 
