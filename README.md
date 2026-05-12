@@ -1,6 +1,6 @@
 # resume
 
-built this with html. 
+built this with html.
 
 - sections: education · skills · projects · profiles
 
