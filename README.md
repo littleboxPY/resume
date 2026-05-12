@@ -1,5 +1,8 @@
 # resume
 
 built this with html. 
-sections: education · skills · projects · profiles
+
+- sections: education · skills · projects · profiles
+
+[RESUME](index.html)
 
